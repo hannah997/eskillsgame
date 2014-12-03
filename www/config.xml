@@ -5,6 +5,7 @@
 		id="com.game.eskillsgame"
 		version="0.0.1">
 	<name>Siobhan & Hannah eskillsgame</name>
+<description> This Eskills game was developed by Siobhan & Hannah for IT girls 2014!</description>
 		<gap:platform name="android" />
 		<gap:platform name="ios" />
 		<preference name="orientation" value="portrait" />
